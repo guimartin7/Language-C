@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//INCOMPLETO - DIFICULDADE PRA FAZER
-
 int idades(int i){
 	int idade[12];
 	for(i=0;i<12;i++){
